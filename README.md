@@ -53,4 +53,70 @@ Each type provides different levels of control, flexibility, and cost, allowing 
 
 
 BLOCKCHAIN:-
-Block chain is a decentralized digital ledger that records transactions in a series of linked blocks. Each block contains a set of transactions and is securely linked to the previous one, ensuring data integrity and immutability. It operates across a network of computers, making it transparent and resistant to tampering or fraud.
+Block chain is a decentralized digital ledger that records transactions in a series of linked blocks. Each block contains a set of transactions and is securely linked to the previous one, ensuring data integrity and immutability. It operates across a network of computers, making it transparent and resistant to tampering or fraud.Some famous examples are
+#1.ARM
+#2.CISC[complex instruction set computer]-
+it is a closed source like intel and AMD(advanced micro devices).It develop X-86 series under ISA[intruction set arichtecture] in 1978.
+#3.RISC[reduced instruction set computer]-
+it is a close source like ARM[Adavnce risc machine] .It has specific intruction,very fast and efficient.
+#4.RISC-V-
+It is based on RISC principles and develop in 2023 and which is a free open source. it also have a project called SHAKTI.
+#5.ASIC:-
+ASIC stands for Application-Specific integrated circuit. it's a type of integrated circuit designed for a specific application or function, rather than general puerpose use. for example, an ASIC designed for cryptocurrency mining is specifically built to perform the hashing calculations required for mining.
+
+SOC(SYSTEM ON A CHIP)-
+
+A System on Chip or an SoC is an integrated circuit that incorporates a majority of components present on a computer. As the name suggests, it is an entire system fabricated on a silicon chip. The beauty of an SoC is that it integrates all the components on a single substrate. In semiconductors, a substrate is a thin film of silicon used to fabricate integrated circuits. In contrast to the traditional motherboard, SoC integrates the replaceable components onto a single chip, thereby reducing the size and increasing efficiency.
+
+OPERATING SYSTEM(OS):
+
+An Operating system is system software that manages computer hardware and software resources and provides common services for computer programs. it act as an intermediary between users and computer hardware
+The most commonly used Operating System(OS):-
+WINDOWS
+MACos
+LINUX
+#NIC
+A network interface card, also known as NIC or network interface controller, is typically a circuit board installed on the computer to connect to the network. It works as an indispensable component for the network connection of computers.
+
+#CLOUD COMPUTING
+Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud"). This allows for faster innovation, flexible resources, and economies of scale.
+
+#BARE METAL SYSTEM
+A bare-metal system is a computer system that operates directly on the hardware without the use of an operating system. This means that the software running on the system has direct access to the hardware resources, such as the CPU, memory, and Input/Output devices.
+
+In simpler terms, it's like running a car without a driver: the engine and other components are working directly, without any intermediary system to manage them.
+
+#VIRTUAL MACHINE
+A virtual machine (VM) is a software-based emulation of a physical computer that allows multiple operating systems or instances to run on a single physical machine. VMs provide isolation, encapsulation, and resource efficiency, making them valuable for development, testing, and production environments. They come in two main types: system virtual machines, which emulate entire systems, and process virtual machines, which abstract individual applications. While VMs offer numerous advantages, including flexibility and efficient resource utilization, they also come with performance overhead and management complexity.
+
+#KERNEL
+The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system. The kernel is also responsible for preventing and mitigating conflicts between different processes.
+
+#IP ADDRESS
+An IP address (Internet Protocol address) is a unique string of numbers separated by periods or colons that identifies each device connected to a network. IP addresses serve two primary functions: identifying the host or network interface and providing the location of the host in the network. They are essential for routing internet traffic and ensuring data reaches the correct destination.
+
+#ISP(INTERNET SERVICE PROVIDER)
+An ISP, or Internet Service Provider, is a company or organization that provides individuals and businesses with access to the internet. ISPs offer various types of internet connections, including:
+
+#DSL (DIGITAL SUBSCRIBER LINE)
+Uses telephone lines to provide internet access. Cable: Uses cable television lines for internet service. Fiber-optic: Uses fiber-optic cables for high-speed internet access. Satellite: Provides internet access via satellite signals, useful in remote areas. Wireless: Uses radio signals to connect to the internet, which can include both fixed wireless and mobile broadband.
+
+#DNS(DOMAIN NAME SYSTEM)
+DNS stands for Domain Name System. It functions like a phone book for the internet, translating human-friendly domain names (like www.example.com) into IP addresses (like 192.0.2.1) that computers use to identify each other on the network.
+
+#VPN(VIRTUAL PRIVATE NETWORK)
+A VPN, or Virtual Private Network, is a service that creates a secure, encrypted connection over a less secure network, such as the internet. It allows you to access the internet as if you were connected to a private network, providing privacy and security.
+
+When you use a VPN, your internet traffic is routed through a secure server before reaching its destination, adding a layer of privacy and security. However, it's important to choose a reputable VPN provider to ensure your data is handled securely and your privacy is protected.
+
+#SEMICONDUCOTRS
+Semiconductors, also known as integrated circuits (ICs) or computer chips, are essential components of computers and other electronic devices.
+#FUNCTION
+Semiconductors process data, store information, and control electronic devices.
+
+#Production
+There are many 2-3 companies in the world that manufacture chips .e.g TSMC ,intel , samsung. And the machines used for producing chips is provided by ASML company
+
+#ARCHITECTURE X-86 :- intel,AMD
+CISC :- Intel,AMD
+RISC :- ARM
