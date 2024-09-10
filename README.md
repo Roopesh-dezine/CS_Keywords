@@ -53,15 +53,15 @@ Each type provides different levels of control, flexibility, and cost, allowing 
 
 
 BLOCKCHAIN:-
-Block chain is a decentralized digital ledger that records transactions in a series of linked blocks. Each block contains a set of transactions and is securely linked to the previous one, ensuring data integrity and immutability. It operates across a network of computers, making it transparent and resistant to tampering or fraud.Some famous examples are
-#1.ARM
-#2.CISC[complex instruction set computer]-
+Block chain is a decentralized digital ledger that records transactions in a series of linked blocks. Each block contains a set of transactions and is securely linked to the previous one, ensuring data integrity and immutability. It operates across a network of computers, making it transparent and resistant to tampering or fraud.Some famous examples are:-
+1.ARM
+2.CISC[complex instruction set computer]-
 it is a closed source like intel and AMD(advanced micro devices).It develop X-86 series under ISA[intruction set arichtecture] in 1978.
-#3.RISC[reduced instruction set computer]-
+3.RISC[reduced instruction set computer]-
 it is a close source like ARM[Adavnce risc machine] .It has specific intruction,very fast and efficient.
-#4.RISC-V-
+4.RISC-V-
 It is based on RISC principles and develop in 2023 and which is a free open source. it also have a project called SHAKTI.
-#5.ASIC:-
+5.ASIC:-
 ASIC stands for Application-Specific integrated circuit. it's a type of integrated circuit designed for a specific application or function, rather than general puerpose use. for example, an ASIC designed for cryptocurrency mining is specifically built to perform the hashing calculations required for mining.
 
 SOC(SYSTEM ON A CHIP)-
